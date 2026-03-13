@@ -18,7 +18,7 @@ This project presents an interactive Power BI dashboard that analyzes heart dise
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_output.png)
+![Dashboard](Images/Screenshot (166).png)
 
 ## How to Use
 1. Download the .pbix file
